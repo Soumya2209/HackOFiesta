@@ -1,7 +1,6 @@
 # CourtLedger
 
-A simple, decentralized and tamper-proof solution for storing evidences for court proceedings.
-![Courtledger Evidences Page](https://i.imgur.com/LSM8d5p.png)
+A decentralized and tamper-proof web application for storing evidences for court proceedings.
 
 ## Stack Used
 1. Solidity
