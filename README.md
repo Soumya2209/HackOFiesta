@@ -1,4 +1,4 @@
-# CourtLedger
+# LegalLedger
 
 A decentralized and tamper-proof web application for storing evidences for court proceedings.
 
